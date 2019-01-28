@@ -7,7 +7,7 @@ How to add Alamofire framewrok using Carthage?
 A. Go to terminal then move to your app folder using CD command
 1. Then create cartfile using "touch cartfile" 
 2. open cartfile using "open -a xcode cartfile" 
-3. then add, what ever framework you want using "github", now we will add alamofire. 'github "Alamofire/Alamofire"'
+3. then add, what ever framework you want using "github", now we will add alamofire. ' github "Alamofire/Alamofire" '
 4. Then "cartfile update", successfully added to Alamofire framework to your app.
 
 B. Xcode configurations
