@@ -9,7 +9,7 @@ A. Go to terminal then move to your app folder using CD command
 2. open cartfile using "open -a xcode cartfile" 
 3. then add, what ever framework you want using "github", now we will add alamofire. ' github "Alamofire/Alamofire" '
 4. Then "carthage update", successfully added to Alamofire framework to your app.
-    If you want to install based on platform then you can use " carthage update --platform iOS "
+    If you want to install based on platform then you can use " carthage update --platform iOS (tvOS/watchOS/macOS)"
 
 B. Xcode configurations
 1. Then Select your app WorkSpace  -> Target -> Linked Framworks and Libraries -> tap + Button (Go to our app folder -> Carthage -> Builds) select framework . then added successfully.
