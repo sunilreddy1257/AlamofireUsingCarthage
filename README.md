@@ -15,7 +15,7 @@ B. Xcode configurations
 2. Go to Build Phases -> Tap + button Top left side -> New Copy Files Phases -> Then Copy Files section created -> Expand Copy Files section -> Select Dropdown is Frameworks -> Then tap + button add framwork. Now you can use that framework.
 
 C. Use Alamofire 
- If you request api call then you need to use "Request" method. For response purposes you need to use a. responseData, b. responseJSON methods
+1. If you request api call then you need to use "Request" method. For response purposes you need to use a. responseData, b. responseJSON methods
 
 
     
